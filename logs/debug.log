@@ -1,0 +1,5 @@
+[Thu, 08 Dec 16 14:46:50 +0800][INFO] This is an info message
+[Thu, 08 Dec 16 14:50:17 +0800][DEBUG] User not logged in!
+[Thu, 08 Dec 16 14:50:17 +0800][DEBUG] This is a debug message
+[Thu, 08 Dec 16 14:51:25 +0800][DEBUG] User not logged in!
+[Thu, 08 Dec 16 14:51:25 +0800][INFO] This is an info message
